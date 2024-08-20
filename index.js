@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["twitch.tv/barkedd"];
+const statusMessages = ["#StayPowered"];
 
 
 let currentIndex = 0;
